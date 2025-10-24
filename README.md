@@ -41,6 +41,7 @@ src/
  
  │
  ├── App.jsx
+ 
  └── index.js
 
 AI Usage Disclosure- AI tools (like ChatGPT) were used for code structuring, explanation, and formatting, but the logic, code understanding, and implementation were written and verified manually
