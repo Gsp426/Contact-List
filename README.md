@@ -23,6 +23,8 @@ npm install
 
 3️⃣ Start the development server
 npm start
+
+
 Project structure-
 
 src/
