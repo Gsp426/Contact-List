@@ -14,6 +14,8 @@ Setup Instructions
 
 Follow these steps to run the project locally:
 
+first install the node.js in your pc/laptops then -
+
 1️⃣ Clone the repository
 
 git clone https://github.com/<your-username>/Contact-List.git
