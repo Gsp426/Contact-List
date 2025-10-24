@@ -32,9 +32,13 @@ Project structure-
 
 src/
  ├── components/
+ 
  │    ├── ContactList.jsx
+ 
  │    ├── SearchBar.jsx
+ 
  │    ├── AddContactForm.jsx
+ 
  │
  ├── App.jsx
  └── index.js
