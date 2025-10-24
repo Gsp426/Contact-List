@@ -15,13 +15,16 @@ Setup Instructions
 Follow these steps to run the project locally:
 
 1️⃣ Clone the repository
+
 git clone https://github.com/<your-username>/Contact-List.git
 cd Contact-List
 
 2️⃣ Install dependencies
+
 npm install
 
 3️⃣ Start the development server
+
 npm start
 
 
